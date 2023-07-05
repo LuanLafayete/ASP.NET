@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tm9fwFCMFJJw9XQCnnQN1Pd/BH++vvKiGvFXcSsfNPTIfFTWK4kVo23caTT3z4eqHpUCprXVO42g0RgSkKSvYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luanr\\OneDrive\\Área de Trabalho\\Programação\\ASP.NET\\MeuPrimeiroApp\\MeuPrimeiroApp\\MeuPrimeiroApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
