@@ -1,4 +1,4 @@
-namespace MinhaDemo.Models
+namespace PraticandoRotas.Models
 {
     public class ErrorViewModel
     {
