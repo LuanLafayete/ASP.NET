@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TrabalhandoFormulario.Models
 {
-    public class Filmes
+    public class Filme
     {
         [Key]
         public int Id { get; set; }
