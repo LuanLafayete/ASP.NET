@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\luanr\OneDrive\Área de Trabalho\Programação\ASP.NET\AppModelo\src\DevIO.UI.Site
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/luanr/OneDrive/Área de Trabalho/Programação/ASP.NET/AppModelo/src/DevIO.UI.Site/Areas/Produtos/Views/Cadastro/Busca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHV0b3NcVmlld3NcQ2FkYXN0cm9cQnVzY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luanr/OneDrive/Área de Trabalho/Programação/ASP.NET/AppModelo/src/DevIO.UI.Site/Areas/Produtos/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHV0b3NcVmlld3NcQ2FkYXN0cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luanr/OneDrive/Área de Trabalho/Programação/ASP.NET/AppModelo/src/DevIO.UI.Site/Areas/Produtos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHV0b3NcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luanr/OneDrive/Área de Trabalho/Programação/ASP.NET/AppModelo/src/DevIO.UI.Site/Areas/Vendas/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmVuZGFzXFZpZXdzXFBlZGlkb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luanr/OneDrive/Área de Trabalho/Programação/ASP.NET/AppModelo/src/DevIO.UI.Site/Areas/Vendas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmVuZGFzXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/luanr/OneDrive/Área de Trabalho/Programação/ASP.NET/AppModelo/src/DevIO.UI.Site/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

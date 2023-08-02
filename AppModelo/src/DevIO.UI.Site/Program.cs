@@ -21,6 +21,12 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+//Rota de área genérica 
+app.MapAreaControllerRoute("AreaProduto", "Produtos", "Produtos/{controller=Cadastro}/{action=Index}/{id?}");
+
+
+
+
 // Colocando a App para rodar
 app.Run();
 
